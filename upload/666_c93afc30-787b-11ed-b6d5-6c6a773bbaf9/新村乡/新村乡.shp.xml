@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20221021</CreaDate><CreaTime>09330800</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="g:\program files (x86)\arcgis\desktop10.3\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20221021" Time="093308">CalculateField 新村乡 area !shape.area!
+ PYTHON_9.3 #</Process><Process ToolSource="g:\program files (x86)\arcgis\desktop10.3\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20221021" Time="093327">CalculateField 新村乡 area !shape.area!
+ PYTHON_9.3 #</Process><Process ToolSource="g:\program files (x86)\arcgis\desktop10.3\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20221021" Time="093848">CalculateField 新村乡 area !shape.area!
+ PYTHON_9.3 #</Process><Process ToolSource="g:\program files (x86)\arcgis\desktop10.3\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20221021" Time="095849">CalculateField 新村乡 ID [FID] VB #</Process></lineage></DataProperties></Esri></metadata>
